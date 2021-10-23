@@ -1,0 +1,80 @@
+
+
+h1{
+  color:purple;
+  font-family: Brush Script MT, Brush Script Std, cursive	;
+  font-size: 100px;
+  text-align:left;
+  margin-left: 150px;
+  background-color: white;
+  margin-right:500px;
+}
+
+#bodytag {
+  background-image: url("Website front page pic.jpg");
+  background-size: 90%;
+}
+
+
+h5{
+  background-color: violet;
+}
+
+.Navbar{
+  text-align: center;
+  background-color:Mintcream;
+  padding:10px;
+}
+
+
+
+ul{
+  list-style-type:square;
+  list-style-position: outside;
+  color: darkmagenta;
+  text-indent: 10px;
+  margin-left: 350px;
+  font-size:25px;
+  font-weight: bold;
+  background-color: white;
+  margin-right: 600px;
+
+}
+
+
+.mymission{
+  font-weight:lighter;
+  font-size: 80px;
+
+}
+
+.intro{
+  margin-left: 150px;
+  margin-right: 150px;
+  font-size: 30px;
+
+}
+
+ol{
+  margin-left:250px;
+  font-size: 17px;
+
+}
+
+#picture1{
+  margin-left: 200px;
+}
+
+#mu{
+font-style: Comic Sans ms;
+font-size: 25px;
+background-color: lightgreen;
+}
+
+#color{
+  background-color: PaleTurquoise;
+}
+
+#colors{
+  background-color: lightgreen;
+}
